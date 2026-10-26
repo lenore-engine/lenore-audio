@@ -1,0 +1,13 @@
+# This is the official list of the Lenore Engine authors for copyright
+# purposes: the people and entities that hold copyright in the code, which is
+# what "The Lenore Engine Authors" in LICENSE refers to. It is not a credits
+# list — a contributor appears here only if they hold copyright in code that
+# was merged.
+#
+# Add entries as:
+#
+#     Name <email>
+#
+# one per line, sorted. An entry may be a person or an organisation; a
+# contributor whose work is owned by their employer should list the employer.
+Kira Yakovenko <kira0void@proton.me>

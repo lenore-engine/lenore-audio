@@ -1,0 +1,8 @@
+.zig-cache/
+zig-out/
+local/
+zig-pkg/
+.claude-variants/
+.mcp.json
+CLAUDE.md
+.README.md
